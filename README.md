@@ -25,7 +25,7 @@
 
 다음은 개별제안서에 있는 아이디어 관련 코드로, Google Cloud Speech API의 오픈소스를 활용하였습니다.
 
-
+'''
 
 from tkinter import *
 from pynput.keyboard import Controller
@@ -183,3 +183,4 @@ myThread.start()
 root.protocol("WM_DELETE_WINDOW", on_closing)
 root.wm_attributes("-topmost",1)
 root.mainloop()
+'''
