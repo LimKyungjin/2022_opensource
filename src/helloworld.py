@@ -1,5 +1,5 @@
 print("(1)-----------------------------")
-fname=input("파일 이름: ")
+fname=input("파일 이름을 입력하세요: ") #파일이름 입력
 print("**파일 전체를 출력합니다")
 with open(fname, "r", encoding="utf-8") as file:
     print(file.read())
