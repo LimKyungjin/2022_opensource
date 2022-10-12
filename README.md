@@ -1,6 +1,9 @@
 # 2022_opensource
 
-오픈소스 프로젝트 제안서 공개를 위한 깃허브입니다.
+## 20221810임경진
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/opensource-%EC%98%A4%ED%94%88%EC%86%8C%EC%8A%A4%EA%B8%B0%EC%B4%88%EC%84%A4%EA%B3%84__%EA%B0%9C%EB%B3%84%EC%A0%9C%EC%95%88%EC%84%9C-brightgreen">
+
+### _오픈소스 프로젝트 제안서 공개를 위한 깃허브입니다._
 
 * 실습 내용:
 - Github 페이지 생성, public으로 전체 공개 (5점)
@@ -23,7 +26,7 @@
 
 
 
-다음은 개별제안서에 있는 아이디어 관련 코드로, Google Cloud Speech API의 오픈소스를 활용하였습니다.
+__다음은 개별제안서에 있는 아이디어 관련 코드로, Google Cloud Speech API의 오픈소스를 활용하였습니다.__
 
 ```python
 
