@@ -4,7 +4,7 @@ import os
 import threading
 import speech_recognition as sr
 
-#프로그램 이름 출력
+#프로그램 이름 출력하기
 print("============= Callin' ============")
 
 #파일 불러오기
@@ -13,7 +13,7 @@ voice_word = file.readlines()
 file.close
 voice_word = [line.rstrip('\n') for line in voice_word]
 
-#메뉴 선택 출력
+#메뉴 선택 출력하기
 while True:
     print("< 메뉴를 선택해주세요 >")
     print("1. 단어 리스트 추가")
