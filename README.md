@@ -1,6 +1,6 @@
 # 2022_opensource
 
-오픈소스 프로젝트 제안서 공개를위한 깃허브입니다.
+오픈소스 프로젝트 제안서 공개를 위한 깃허브입니다.
 
 * 실습 내용:
 - Github 페이지 생성, public으로 전체 공개 (5점)
@@ -18,7 +18,14 @@
 - 파일 제출: 제안서 양식(참고).docx를 주제(학번,이름).docx으로 파일 이름 변경 후 Git에 업로드. --> 개별 Git 링크 공개 + 파일을 게시글에 유첨하여 업로드.
 
 
+
+
+
+
+
 다음은 개별제안서에 있는 아이디어 관련 코드로, Google Cloud Speech API의 오픈소스를 활용하였습니다.
+
+
 
 from tkinter import *
 from pynput.keyboard import Controller
